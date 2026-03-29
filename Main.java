@@ -18,6 +18,8 @@ public class Main {
                 }
             } else {
                 pq.add(x);
+
+                
             }
         }
     }
